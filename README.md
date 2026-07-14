@@ -1,4 +1,4 @@
-# ⚡ Terminal Access: Faysal_System_Architecture
+# ⚡ Terminal Access: Mehedi_System_Architecture
 
 ```json
 {
