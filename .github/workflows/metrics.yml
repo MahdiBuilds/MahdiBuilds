@@ -29,4 +29,4 @@ jobs:
           # 3. Ecosystem Performance (Proves Optimization)
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://featherit.com
+          plugin_pagespeed_url: https://featheruniverse.com
