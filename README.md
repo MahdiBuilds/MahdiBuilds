@@ -8,6 +8,7 @@
   "status": "Compounding macro-architecture. Building the Axon Zenith ecosystem.",
   "fuel": ["Black coffee", "Kyokushin discipline", "First-Principles logic"]
 }
+
 > cat core_philosophy.md
 Code and Character.
 I do not trade time for hourly metrics. I build highly scalable, backend-heavy ecosystems that operate with zero-bug tolerance. My architecture applies the strict discipline of the dojo directly to the codebase: everything must have a purpose, and execution must be flawless. If the engineering is weak, the brand is weak.
@@ -27,7 +28,7 @@ PS: I do not trade time for hourly metrics or freelance consulting. The macro-ar
 Here is the exact matrix currently running in the build queue:
 🔌 [Project Jukto] will act as the open-source Python SDK unifying regional APIs (Payment, SMS, Logistics) into a strictly typed standard.
 👁️ [Factory Vision] will deploy industrial Edge AI and computer vision algorithms into legacy manufacturing environments.
-🏢 [NogorERP] will offer for the enterprise resource planning.
+🏢 [NogorERP] will offers backbone for enterprise resource planning.
 🧠 [NexoGyan & NexoPet] will stress-test horizontally scaled microservices for telecommunications and complex fleet logistics.
 📊 [LedgerBD] will automate high-velocity accounting and sales management for the Feather IT B2B pipeline.
 📖 [Anyone Can Code - Core Repos] will expose the exact academic frameworks I use at DIU for my upcoming TutorLMS Academy courses.
