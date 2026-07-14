@@ -221,6 +221,31 @@ leadership:
 ```
 
 ---
+## `$ inspect --public-telemetry`
+
+<div align="center">
+
+<img
+  src="./assets/metrics/isocalendar.svg"
+  width="100%"
+  alt="MahdiBuilds isometric contribution calendar"
+/>
+
+<br>
+
+<img
+  src="./assets/metrics/languages.svg"
+  width="49%"
+  alt="MahdiBuilds repository language distribution"
+/>
+
+<img
+  src="./assets/metrics/topics.svg"
+  width="49%"
+  alt="MahdiBuilds starred GitHub topics"
+/>
+
+</div>
 
 ## `$ ./execute_routing_protocol.sh`
 
