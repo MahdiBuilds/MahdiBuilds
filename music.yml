@@ -1,0 +1,42 @@
+module:
+  enabled: true
+  title: "Faith & Focus"
+  subtitle: "Muslim Engineering Playlist"
+  service_name: "faith-and-focus.service"
+  description: >
+    A curated Muslim playlist for software engineering,
+    architecture, study, reflection, and disciplined deep work.
+
+  rotation: daily
+  timezone: "Asia/Dhaka"
+
+  show_track_title: true
+  show_channel_name: true
+  show_thumbnail: true
+  show_position: true
+  show_last_sync: true
+
+provider:
+  name: "youtube"
+
+  playlist_id: "PL4gvDAHWfnPZ-P5iL7-7YLCDOYKHBjEKK"
+  initial_video_id: "0dpEA6Cgkwc"
+
+  playlist_url: >
+    https://www.youtube.com/playlist?list=PL4gvDAHWfnPZ-P5iL7-7YLCDOYKHBjEKK
+
+display:
+  mode: "daily_rotation"
+  fallback_title: "Faith & Focus: Engineering Edition"
+  action_text: "OPEN PLAYLIST"
+  focus_mode: "deep-work"
+  content_label: "Muslim focus and reflection"
+
+theme:
+  background: "#050805"
+  panel: "#0A100A"
+  primary: "#39FF14"
+  secondary: "#16C60C"
+  text: "#D7FFD2"
+  muted: "#6A8F68"
+  border: "#1D4D1B"
