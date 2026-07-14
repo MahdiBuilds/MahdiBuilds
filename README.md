@@ -1,4 +1,3 @@
-````markdown
 <!--
   MahdiBuilds GitHub Profile
   Repository: https://github.com/MahdiBuilds/MahdiBuilds
@@ -355,4 +354,3 @@ Designed as an evolving engineering dossier—not a static résumé.
 </sub>
 
 </div>
-````
