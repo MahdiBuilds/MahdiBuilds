@@ -58,6 +58,18 @@
 }
 ```
 
+## `$ render --contribution-matrix`
+
+<div align="center">
+
+<img
+  src="./profile-3d-contrib/profile-night-green.svg"
+  width="100%"
+  alt="MahdiBuilds 3D contribution calendar"
+/>
+
+</div>
+
 I design backend-heavy systems where architecture, maintainability, observability, and operational resilience are treated as product requirements—not afterthoughts.
 
 My work connects three environments that are too often separated:
