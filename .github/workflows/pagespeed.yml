@@ -1,10 +1,9 @@
 name: Generate Website Performance Reports
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "20 3 * * 1"
-
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,6 +21,7 @@ jobs:
           filename: assets/metrics/pagespeed-mahdiblogs.svg
           base: ""
           plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://mahdiblogs.com
 
       - name: Audit Feather Universe
@@ -32,4 +32,5 @@ jobs:
           filename: assets/metrics/pagespeed-feather.svg
           base: ""
           plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://featheruniverse.com
