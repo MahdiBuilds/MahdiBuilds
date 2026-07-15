@@ -127,17 +127,17 @@ Repository-language data describes public repository composition; it is not a cl
 | **Frontend** | React, TypeScript |
 
 <p>
-  <img src="https://img.shields.io/badge/Python-050805?style=flat-square&logo=python&logoColor=39FF14" alt="Python">
-  <img src="https://img.shields.io/badge/Django-050805?style=flat-square&logo=django&logoColor=39FF14" alt="Django">
-  <img src="https://img.shields.io/badge/FastAPI-050805?style=flat-square&logo=fastapi&logoColor=39FF14" alt="FastAPI">
-  <img src="https://img.shields.io/badge/PostgreSQL-050805?style=flat-square&logo=postgresql&logoColor=39FF14" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redis-050805?style=flat-square&logo=redis&logoColor=39FF14" alt="Redis">
-  <img src="https://img.shields.io/badge/Docker-050805?style=flat-square&logo=docker&logoColor=39FF14" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-050805?style=flat-square&logo=amazonwebservices&logoColor=39FF14" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-050805?style=flat-square&logo=microsoftazure&logoColor=39FF14" alt="Azure">
-  <img src="https://img.shields.io/badge/GitHub_Actions-050805?style=flat-square&logo=githubactions&logoColor=39FF14" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/React-050805?style=flat-square&logo=react&logoColor=39FF14" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-050805?style=flat-square&logo=typescript&logoColor=39FF14" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-050805?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Django-050805?style=flat-square&logo=django&logoColor=44B78B" alt="Django">
+  <img src="https://img.shields.io/badge/FastAPI-050805?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PostgreSQL-050805?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-050805?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis">
+  <img src="https://img.shields.io/badge/Docker-050805?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-050805?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-050805?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure">
+  <img src="https://img.shields.io/badge/GitHub_Actions-050805?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/React-050805?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-050805?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
 </p>
 
 ---
