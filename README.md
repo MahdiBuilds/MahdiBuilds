@@ -70,6 +70,48 @@
 
 </div>
 
+## `$ systemctl status faith-and-focus.service`
+
+<div align="center">
+
+<a href="https://www.youtube.com/playlist?list=PL4gvDAHWfnPZ-P5iL7-7YLCDOYKHBjEKK">
+  <img
+    src="./assets/metrics/faith-and-focus.svg"
+    width="100%"
+    alt="Faith and Focus Muslim engineering playlist"
+  />
+</a>
+
+</div>
+
+```text
+● faith-and-focus.service
+     Loaded: loaded
+     Active: active
+       Mode: disciplined-deep-work
+    Content: Muslim focus, reflection, study, and engineering
+
+```
+---
+## `$ diagnose --public-endpoints`
+
+<div align="center">
+
+<img
+  src="./assets/metrics/pagespeed-mahdiblogs.svg"
+  width="49%"
+  alt="MahdiBlogs website performance"
+/>
+
+<img
+  src="./assets/metrics/pagespeed-feather.svg"
+  width="49%"
+  alt="Feather Universe website performance"
+/>
+
+</div>
+
+
 I design backend-heavy systems where architecture, maintainability, observability, and operational resilience are treated as product requirements—not afterthoughts.
 
 My work connects three environments that are too often separated:
